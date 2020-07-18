@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2020-07-05T08:18:41Z" finished-at="2020-07-05T08:18:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2020-07-05T08:18:41Z" finished-at="2020-07-05T08:18:41Z">
+      <class name="test.Appium_Test">
+        <test-method status="PASS" signature="androidApp()[pri:0, instance:test.Appium_Test@226a82c4]" name="androidApp" duration-ms="0" started-at="2020-07-05T13:48:41Z" finished-at="2020-07-05T13:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidApp -->
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:test.Appium_Test@226a82c4]" name="iosApp" duration-ms="0" started-at="2020-07-05T13:48:41Z" finished-at="2020-07-05T13:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+      </class> <!-- test.Appium_Test -->
+      <class name="test.Selenium_Test">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:test.Selenium_Test@77e4c80f]" name="browserAutomation" duration-ms="15" started-at="2020-07-05T13:48:41Z" finished-at="2020-07-05T13:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:test.Selenium_Test@77e4c80f]" name="elementsUi" duration-ms="47" started-at="2020-07-05T13:48:41Z" finished-at="2020-07-05T13:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- test.Selenium_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
